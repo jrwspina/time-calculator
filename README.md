@@ -1,4 +1,4 @@
-### Time Calculator is a project part of freeCodeCamp's Scientific Computing with Python course.
+#### Time Calculator is a project part of freeCodeCamp's [Scientific Computing with Python course](https://www.freecodecamp.org/learn/scientific-computing-with-python/), the solution can be found in the file *time_calculator.py*.
 
 ### Assignment
 
